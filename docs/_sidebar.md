@@ -1,0 +1,7 @@
+* [Home](/)
+* [Setup](setup.md)
+* [Customization](customization.md)
+* [Operation](operation.md)
+* [Spydra Schematic](schematic.md)
+* [References](references.md)
+* [Notes](notes.md)
